@@ -5,7 +5,7 @@ Hey 👋👋 this is a simple live chat written in elixir.
 
 To run you need to have postgreSQL installed in you computer and run the following commands:
 
-`mix ecto.create` -- Create DataBase
+`mix ecto.create` -- Create Database
 
 `mix phx.server` -- Start the server
 
