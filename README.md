@@ -11,6 +11,8 @@ To run you need to have postgreSQL installed in you computer and run the followi
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
+https://beta.iodine.gg/FwcIf.gif
+
 ## Learn more
 
 * Want to check it out already online? [`Click Here`](https://synter.dev.br/exchat)
