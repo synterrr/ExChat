@@ -1,7 +1,7 @@
 # ExChat
-Hey 👋👋 this is a simple live chat written in elixir.
+The objective of this project was to gain experience in the Elixir language, in this case I used Phoenix (elixir web-framework) and Ecto. 
 
-# INSTALATION
+## INSTALATION
 
 To run you need to have postgreSQL installed in you computer and run the following commands:
 
